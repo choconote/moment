@@ -1,0 +1,135 @@
+*{
+    overflow:hidden;
+}
+
+.hidden{
+    display: none;
+}
+
+
+/* 요소를 숨김 */
+#clock{
+    position: absolute;
+    left: 760px;
+    top: 100px;
+    color: white;
+    font-size: 100px;
+
+}
+
+#login-form{
+    position: absolute;
+    left: 760px;
+    top: 400px;
+    color: white;
+    font-size: 50px;
+}
+
+
+#todo-form{
+
+    position: absolute;
+    left: 760px;
+    top: 500px;
+    color: white;
+    font-size: 25px;
+}
+
+#todo-List{
+    position: absolute;
+    left: 800px;
+    top: 600px;
+    color: white;
+}
+
+#quote{
+    position: absolute;
+    left: 760px;
+    top: 900px;
+    color: white;
+    font-size: 15px;
+}
+#weather{
+    position: absolute;
+    top: 10px;
+    left: 1790px;
+    color: white;
+    font-size: 15px;
+}
+#greeting{
+    position: absolute;
+    left: 10px;
+    top: 20px;
+    color: white;
+}
+body,
+html {
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+html {
+  background: #333333;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+body {
+  background-size: cover;
+  background-position: center center;
+  opacity: 0;
+  animation: fadeIn 1s ease-in-out forwards;
+  animation-delay: 0.5s;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  background: none;
+  appearance: none;
+  border: 0;
+  font-size: 22px;
+  color: white;
+  border-bottom: 2px solid white;
+}
+
+input::placeholder {
+  color: white;
+}
+
+input:focus,
+input:active {
+  outline: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  margin-top: 50px;
+}
