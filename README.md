@@ -13,5 +13,5 @@ https://choconote.github.io/moment/moment/index.html
 
 
 img...<br>
-<img src="img/capture.png" width="300" height="500">
-<img src="img/capture1.png" width="300" height="500">
+<img src="moment/img/capture.png" width="300" height="500">
+<img src="moment/img/capture1.png" width="300" height="500">
