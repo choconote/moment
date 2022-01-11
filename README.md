@@ -14,4 +14,4 @@ https://choconote.github.io/moment/moment/index.html
 
 img...<br>
 ![capture](https://user-images.githubusercontent.com/29483941/148880693-246cddd0-b76a-4097-a74e-edc7424f4616.PNG)
-<img src="moment/img/capture1.png" width="300" height="500">
+![capture1](https://user-images.githubusercontent.com/29483941/148880791-286cb976-b6bd-469d-92ee-7366469f290d.PNG)
